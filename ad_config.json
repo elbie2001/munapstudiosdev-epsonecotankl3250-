@@ -1,8 +1,8 @@
 {
-  "enabled": true,
-  "bannerEnabled": true,
-  "interstitialEnabled": true,
-  "appOpenEnabled": true,
+  "enabled": false,
+  "bannerEnabled": false,
+  "interstitialEnabled": false,
+  "appOpenEnabled": false,
   "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
   "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
   "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
