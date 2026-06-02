@@ -1,12 +1,12 @@
-{
-  "enabled": true,
-  "bannerEnabled": true,
-  "interstitialEnabled": true,
-  "appOpenEnabled": true,
-  "bannerAdUnitId": "ca-app-pub-3940256099942544/6300978111",
-  "interstitialAdUnitId": "ca-app-pub-3940256099942544/1033173712",
-  "appOpenAdUnitId": "ca-app-pub-3940256099942544/9257395921",
-  "interstitialCooldownSeconds": 75,
-  "appOpenCooldownMinutes": 4,
-  "toolActionThreshold": 2
-}
+
+    "enabled": true,
+    "bannerEnabled": true,
+    "interstitialEnabled": true,
+    "appOpenEnabled": true,
+    "bannerAdUnitId": "ca-app-pub-5228015934501477/6074657946",
+    "interstitialAdUnitId": "ca-app-pub-5228015934501477/4155071611",
+    "appOpenAdUnitId": "ca-app-pub-5228015934501477/7783772194",
+    "interstitialCooldownSeconds": 75,
+    "appOpenCooldownMinutes": 4,
+    "toolActionThreshold": 2
+  }
