@@ -1,12 +1,12 @@
 
-    "enabled": false,
-    "bannerEnabled": false,
-    "interstitialEnabled": false,
-    "appOpenEnabled": false,
+    "enabled": true,
+    "bannerEnabled": true,
+    "interstitialEnabled": true,
+    "appOpenEnabled": true,
     "bannerAdUnitId": "ca-app-pub-5228015934501477/6074657946",
     "interstitialAdUnitId": "ca-app-pub-5228015934501477/4155071611",
     "appOpenAdUnitId": "ca-app-pub-5228015934501477/7783772194",
-    "interstitialCooldownSeconds": 75,
+    "interstitialCooldownSeconds": 15,
     "appOpenCooldownMinutes": 4,
     "toolActionThreshold": 2
   }
